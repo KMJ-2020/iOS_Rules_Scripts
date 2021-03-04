@@ -1,4 +1,4 @@
-## 备份来自blackmatrix7大佬的文件，自用，若引用建议自行github找原作者，本人只是方便自行使用。望作者blackmatrix7谅解！
+## 备份来自blackmatrix7大佬的文件，自用，若引用建议自行github找原作者，本人只是方便自行引用。望作者blackmatrix7谅解！
 # iOS Rules And Scripts
 
 ## 前言
@@ -26,11 +26,11 @@ iOS平台的分流规则、复写规则及自动化脚本。
 
 分流规则
 
-https://github.com/blackmatrix7/ios_rule_script/tree/master/rule
+https://github.com/KMJ-2020/iOS_Rules_Scripts/tree/release/rule
 
 复写规则
 
-https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
+https://github.com/KMJ-2020/iOS_Rules_Scripts/tree/release/rewrite
 
 ## 脚本
 
